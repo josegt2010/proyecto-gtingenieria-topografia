@@ -1,0 +1,3 @@
+---Nuestro archivo de configuracion---
+1.- Usuarios del grupo sistemas debian
+2.- Usuarios del sistema centos
